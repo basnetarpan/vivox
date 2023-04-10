@@ -1,0 +1,11 @@
+body {
+  background-image: url(math.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+}
+.square {
+  text-align: center;
+  color: black;
+  background-color: fuchsia;
+}

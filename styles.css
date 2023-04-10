@@ -1,0 +1,109 @@
+body {
+  background: url(i.jpg);
+  background-size: cover;
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+}
+
+h1[class="heading"] {
+  color: powderblue;
+  border-radius: 10px;
+  width: 325px;
+  margin-left: 40px;
+  padding-top: 25px;
+}
+div[class="container"] {
+  background-color: transparent;
+  border-radius: 10px;
+  margin-left: 600px;
+  margin-top: -385px;
+  padding: 20px;
+  box-sizing: border-box;
+  text-align: center;
+  border-style: double;
+  border-color: aqua;
+}
+u {
+  color: #fff;
+}
+marquee {
+  color: lightblue;
+  width: 50%;
+  margin-left: 25%;
+  margin-right: 15%;
+  font-style: italic;
+  align-content: center;
+}
+button {
+  margin: 10px;
+  background-color: transparent;
+  font-style: italic;
+  border: none;
+  font-size: 15px;
+  color: #fff;
+  box-sizing: border-box;
+}
+input[class="type"] {
+  border-radius: 10px;
+  background-color: #fff;
+  font-size: 15px;
+  font-style: italic;
+}
+
+a[href=""] {
+  color: #fff;
+}
+#down {
+  scroll-behavior: smooth;
+}
+
+.btn:hover {
+  cursor: pointer;
+  color: #fff;
+  background-color: greenyellow;
+  border-radius: 10px;
+}
+div[class="heading"] {
+  color: whitesmoke;
+  font-style: oblique;
+  margin-left: 80%;
+  margin-top: 1%;
+  text-align: center;
+  width: 250px;
+  box-sizing: content-box;
+}
+img[src="arpan.jpg"] {
+  width: 200px;
+  box-sizing: border-box;
+  border-radius: 20px;
+  border-style: ridge;
+}
+
+img[src="logo.jpg"] {
+  border-radius: 100%;
+  margin-left: 46%;
+  border-style: groove;
+  width: 10%;
+  margin-top: 9%;
+  border-style: groove;
+  border-color: gray;
+}
+img[src="logo.jpg"]:hover {
+  transform: 360deg;
+}
+div[class="square"] {
+  background-color: black;
+  width: 60%;
+  height: 50%;
+}
+.logos {
+  width: 5%;
+  margin-left: 90%;
+}
+.navbar {
+  color: #fff;
+}
+a {
+  color: #fff;
+  border: none;
+}
